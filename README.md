@@ -79,14 +79,17 @@ Full-stack project featuring distinct role-based dashboards. Developed the front
 
 ## 🔗 Connect with Me
 
-I love connecting with different people. If you want to say hi, I'd be delighted to meet you!
 
 <p align="center">
-<a href="https://www.linkedin.com/in/palla-lakshmana/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="LinkedIn" height="40" width="45" /></a>
-<a href="https://github.com/Lakshmana70" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171338019-50f8c8de-e1ac-4651-b2cf-1901eceb2e51.gif" alt="GitHub" height="40" width="45" /></a>
-<a href="mailto:lakshmanapallalgmail@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="Email" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/Lakshmana70" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171338019-50f8c8de-e1ac-4651-b2cf-1901eceb2e51.gif" alt="HackerRank" height="40" width="45" /></a>
+  <a href="https://www.linkedin.com/in/palla-lakshmana/" target="blank">
+    <img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="LinkedIn" height="40" width="45" />
+  </a>
+  <a href="mailto:lakshmanapalla@gmail.com" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="Email" width="40" />
+  </a>
 </p>
+
+
 
 <br><br>
 
